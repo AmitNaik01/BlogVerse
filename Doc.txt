@@ -20,3 +20,6 @@ export default {
   },
   plugins: [],
 }
+
+
+npm i react-router-dom
